@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.sec1{
+    background-color: rgb(170, 129, 224);
+    display: flexbox;
+    justify-self: center;
+    width: 60%;
+    height: 450px;
+    margin-top: 25px;
+}
+button{
+    padding: 8px;
+    background-color: rgb(123, 235, 188);
+    border: 4px;
+    font-size: medium;
+    border-radius: 25px;
+    size: 30px;
+    margin: 8px;
+}
+label{
+    margin: 25px;
+}
+h2{
+    text-align: center;
+    margin: 25px;
+    margin-top: 10px;
+}
