@@ -61,7 +61,7 @@ function Registrar(){
     promediar();
 
 }
-function Borrar(){
+function Borrar(){     
 
     var tabla=document.getElementById('Registrar');
     tabla.innerHTML="";
