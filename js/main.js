@@ -75,7 +75,7 @@ function promediar()
     total=parseFloat(total)+parseFloat(imc);
 
 
-    promedio=total/x;
+    promedio=total/x; 
     prom.innerHTML="El promedio es: "+promedio.toFixed(1);  
 
 
